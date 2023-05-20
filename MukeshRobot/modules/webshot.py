@@ -7,7 +7,7 @@ from MukeshRobot.utils.errors import capture_err
 __help__ = """
 » /webss *:* sᴇɴᴅs ᴛʜᴇ sᴄʀᴇᴇɴsʜᴏᴛ ᴏғ ᴛʜᴇ ɢɪᴠᴇɴ ᴜʀʟ.
 
-☆............𝙱𝚈 » [𝚅𝙸𝙿 𝙱𝙾𝚈](https://t.me/the_vip_boy)............☆
+☆............𝙱𝚈 » [CHEERY](https://t.me/DRACULA_CHEERY)............☆
 """
 __mod_name__ = "⚡Wᴇʙsʜᴏᴛ⚡"
 
