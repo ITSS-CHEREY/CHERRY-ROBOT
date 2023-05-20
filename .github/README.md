@@ -34,7 +34,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://GitHub.com/ITSS-CHEREY/CHEERY-ROBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-darkred?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ITSS-CHEREY/CHERRY-ROBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-darkred?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ➳ 𝐊σι 𝐇υмαяι 𝐓αяαн चाहे 𝐓σн 𝐁αтα 𝐃єиα,
 
