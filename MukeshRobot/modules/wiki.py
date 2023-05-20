@@ -59,6 +59,6 @@ dispatcher.add_handler(WIKI_HANDLER)
 __help__ = """
 » /wiki (text) *:* sᴇᴀʀᴄʜs ᴀʙᴏᴜᴛ ᴛʜᴇ ɢɪᴠᴇɴ ᴛᴇxᴛ ᴏɴ ᴡɪᴋɪᴘᴇᴅɪᴀ.
 
-☆............𝙱𝚈 » [𝚅𝙸𝙿 𝙱𝙾𝚈](https://t.me/the_vip_boy)............☆
+☆............𝙱𝚈 » [CHEERY](https://t.me/DRACULA_CHEERY)............☆
 """
 __mod_name__ = "⚡Wɪᴋɪ⚡"
