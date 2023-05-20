@@ -30,7 +30,7 @@ Mukesh = [
     ],
 ]
 
-lol = "https://graph.org/file/d874fc40ddf9ead0cad6b.jpg"
+lol = "https://graph.org/file/c492fef7abfa154580976.jpg"
 
 
 @pbot.on_message(filters.command("alive"))
@@ -48,16 +48,16 @@ async def restart(client, m: Message):
     await accha.delete()
     await asyncio.sleep(0.5)
     umm = await m.reply_sticker(
-        "CAACAgUAAxkDAAJHbmLuy2NEfrfh6lZSohacEGrVjd5wAAIOBAACl42QVKnra4sdzC_uKQQ"
+        "CAACAgUAAx0CZ3aSOAABBloXZGiObx2CXl95NgVLQtWMlE6NTK4AAnoKAAIakDBXFMyVDTDICYQeBA"
     )
     await umm.delete()
     await asyncio.sleep(0.8)
     await m.reply_photo(
         lol,
-        caption=f"""**🌷ʜᴇʏ, ɪ ᴀᴍ 『[𝗩𝗜𝗣 𝗥𝗢𝗕𝗢𝗧](f"t.me/{BOT_USERNAME}")』🎄**
+        caption=f"""**🌷ʜᴇʏ, ɪ ᴀᴍ 『[𝐂𝐇𝐄𝐑𝐑𝐘 𝗥𝗢𝗕𝗢𝗧](f"t.me/{BOT_USERNAME}")』🎄**
    ╔═════ஜ۩۞۩ஜ════╗
 
-   ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 [𝗩𝗜𝗣 𝗕𝗢𝗬](https://t.me/THE_VIP_BOY)♨️
+   ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 [𝐂𝐇𝐄𝐑𝐑𝐘 𝗕𝗢𝗬](https://t.me/DRACULA_CHEERY)♨️
 
    ╚═════ஜ۩۞۩ஜ════╝""",
         reply_markup=InlineKeyboardMarkup(Mukesh),
@@ -68,4 +68,4 @@ __help__ = """
 *ᴜsᴇʀ ᴄᴏᴍᴍᴀɴᴅs*:
 » /alive*:* ᴛᴏ ᴄʜᴇᴀᴋ ❓  ɪ ᴀᴍ ᴀʟɪᴠᴇ ᴏʀ ɴᴏᴛ?
 
-☆............𝙱𝚈 » [𝚅𝙸𝙿 𝙱𝙾𝚈](https://t.me/the_vip_boy)............☆"""
+☆............𝙱𝚈 » [CHERRY](https://t.me/DRACULA_CHEERY)............☆"""
